@@ -1,0 +1,16 @@
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\AnotacionesCase03\bin\Debug\net5.0\AnotacionesCase03.exe
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\AnotacionesCase03\bin\Debug\net5.0\AnotacionesCase03.deps.json
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\AnotacionesCase03\bin\Debug\net5.0\AnotacionesCase03.runtimeconfig.json
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\AnotacionesCase03\bin\Debug\net5.0\AnotacionesCase03.runtimeconfig.dev.json
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\AnotacionesCase03\bin\Debug\net5.0\AnotacionesCase03.dll
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\AnotacionesCase03\bin\Debug\net5.0\AnotacionesCase03.pdb
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\AnotacionesCase03\obj\Debug\net5.0\AnotacionesCase03.csproj.AssemblyReference.cache
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\AnotacionesCase03\obj\Debug\net5.0\AnotacionesCase03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\AnotacionesCase03\obj\Debug\net5.0\AnotacionesCase03.AssemblyInfoInputs.cache
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\AnotacionesCase03\obj\Debug\net5.0\AnotacionesCase03.AssemblyInfo.cs
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\AnotacionesCase03\obj\Debug\net5.0\AnotacionesCase03.csproj.CoreCompileInputs.cache
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\AnotacionesCase03\obj\Debug\net5.0\AnotacionesCase03.dll
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\AnotacionesCase03\obj\Debug\net5.0\refint\AnotacionesCase03.dll
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\AnotacionesCase03\obj\Debug\net5.0\AnotacionesCase03.pdb
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\AnotacionesCase03\obj\Debug\net5.0\AnotacionesCase03.genruntimeconfig.cache
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\AnotacionesCase03\obj\Debug\net5.0\ref\AnotacionesCase03.dll

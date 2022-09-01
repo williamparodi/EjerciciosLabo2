@@ -1,0 +1,16 @@
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\Clase01-Ejercicio-04\bin\Debug\net5.0\Clase01-Ejercicio-04.exe
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\Clase01-Ejercicio-04\bin\Debug\net5.0\Clase01-Ejercicio-04.deps.json
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\Clase01-Ejercicio-04\bin\Debug\net5.0\Clase01-Ejercicio-04.runtimeconfig.json
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\Clase01-Ejercicio-04\bin\Debug\net5.0\Clase01-Ejercicio-04.runtimeconfig.dev.json
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\Clase01-Ejercicio-04\bin\Debug\net5.0\Clase01-Ejercicio-04.dll
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\Clase01-Ejercicio-04\bin\Debug\net5.0\Clase01-Ejercicio-04.pdb
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\Clase01-Ejercicio-04\obj\Debug\net5.0\Clase01-Ejercicio-04.csproj.AssemblyReference.cache
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\Clase01-Ejercicio-04\obj\Debug\net5.0\Clase01-Ejercicio-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\Clase01-Ejercicio-04\obj\Debug\net5.0\Clase01-Ejercicio-04.AssemblyInfoInputs.cache
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\Clase01-Ejercicio-04\obj\Debug\net5.0\Clase01-Ejercicio-04.AssemblyInfo.cs
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\Clase01-Ejercicio-04\obj\Debug\net5.0\Clase01-Ejercicio-04.csproj.CoreCompileInputs.cache
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\Clase01-Ejercicio-04\obj\Debug\net5.0\Clase01-Ejercicio-04.dll
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\Clase01-Ejercicio-04\obj\Debug\net5.0\refint\Clase01-Ejercicio-04.dll
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\Clase01-Ejercicio-04\obj\Debug\net5.0\Clase01-Ejercicio-04.pdb
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\Clase01-Ejercicio-04\obj\Debug\net5.0\Clase01-Ejercicio-04.genruntimeconfig.cache
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\Clase01-Ejercicio-04\obj\Debug\net5.0\ref\Clase01-Ejercicio-04.dll
