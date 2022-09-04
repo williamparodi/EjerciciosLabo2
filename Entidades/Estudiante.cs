@@ -17,8 +17,7 @@ namespace Entidades
 
         static Estudiante()
         {
-            Estudiante.random = new Random();
-
+            Estudiante.random = new Random(); // constructor de instancia
         }
 
         public Estudiante(string nombre, string apellido, string legajo)
@@ -51,7 +50,7 @@ namespace Entidades
 
             if(this.notaPrimerParcial >= 4 && this.notaSegundoParcial >= 4)
             {
-                notaFinal = random.Next(6, 10);
+                notaFinal = Estudiante.random.Next(6, 10);
             }
 
             return notaFinal;
