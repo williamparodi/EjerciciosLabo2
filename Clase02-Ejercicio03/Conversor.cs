@@ -32,6 +32,25 @@ namespace Clase02_Ejercicio03
             return numeroBinario;
         }
 
+        public static int ConvertirBinarioADecimal(int numeroEntero)
+        {
+            int numeroBinario = 0;
+            string numeroBinarioIngresado = " ";
+
+            numeroBinarioIngresado = numeroEntero.ToString();
+            numeroBinarioIngresado = InvierteTexto(numeroBinarioIngresado);
+
+            for(int i =0; i < numeroBinarioIngresado.Length;i++ )
+            {
+                if(numeroBinarioIngresado[i] == '1')
+                {
+                    numeroBinario +=(int)Math.Pow(2, i); 
+                }
+            }
+
+            return numeroBinario;
+        }
+
         private static string InvierteTexto(string texto)
         {
             StringBuilder sb = new StringBuilder();
