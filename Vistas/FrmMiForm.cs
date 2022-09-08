@@ -35,6 +35,22 @@ namespace Vistas
             //MessageBox.Show($"Hola {nombre}","BIENVENIDO",MessageBoxButtons.OKCancel,MessageBoxIcon.Warning); 
         }
 
+        private void button1_click(object sender, EventArgs e)
+        {
+            string nombre;
+            nombre=this.txtNombre.Text;
+
+            FrmSaludar frmSaludar = new FrmSaludar();
+            if(frmSaludar.ShowDialog() == DialogResult.OK)
+            {
+                MessageBox.Show("Usted acepta su nombre");
+            }
+            else
+            {
+                MessageBox.Show("No le gusta su nombre");
+            }
+        }
+
 
 
      

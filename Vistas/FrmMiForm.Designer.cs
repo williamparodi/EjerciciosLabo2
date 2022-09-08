@@ -31,15 +31,16 @@
             this.btnSaludar = new System.Windows.Forms.Button();
             this.lblNombre = new System.Windows.Forms.Label();
             this.txtNombre = new System.Windows.Forms.TextBox();
+            this.btnOtroFrom = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnSaludar
             // 
             this.btnSaludar.Location = new System.Drawing.Point(286, 194);
             this.btnSaludar.Name = "btnSaludar";
-            this.btnSaludar.Size = new System.Drawing.Size(75, 23);
+            this.btnSaludar.Size = new System.Drawing.Size(117, 64);
             this.btnSaludar.TabIndex = 0;
-            this.btnSaludar.Text = "Saludar";
+            this.btnSaludar.Text = "Saludar por MessageBox";
             this.btnSaludar.UseVisualStyleBackColor = true;
             this.btnSaludar.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -59,12 +60,23 @@
             this.txtNombre.Size = new System.Drawing.Size(100, 23);
             this.txtNombre.TabIndex = 2;
             // 
+            // btnOtroFrom
+            // 
+            this.btnOtroFrom.Location = new System.Drawing.Point(439, 201);
+            this.btnOtroFrom.Name = "btnOtroFrom";
+            this.btnOtroFrom.Size = new System.Drawing.Size(124, 57);
+            this.btnOtroFrom.TabIndex = 3;
+            this.btnOtroFrom.Text = "Saludar desde otro From";
+            this.btnOtroFrom.TextImageRelation = System.Windows.Forms.TextImageRelation.TextAboveImage;
+            this.btnOtroFrom.UseVisualStyleBackColor = true;
+            // 
             // FrmMiForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(628, 418);
+            this.Controls.Add(this.btnOtroFrom);
             this.Controls.Add(this.txtNombre);
             this.Controls.Add(this.lblNombre);
             this.Controls.Add(this.btnSaludar);
@@ -80,5 +92,6 @@
         private System.Windows.Forms.Button btnSaludar;
         private System.Windows.Forms.Label lblNombre;
         private System.Windows.Forms.TextBox txtNombre;
+        private System.Windows.Forms.Button btnOtroFrom;
     }
 }

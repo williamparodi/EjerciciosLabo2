@@ -16,3 +16,6 @@ C:\Users\Willy\source\repos\ClasesProgra2Labo2\Vistas\obj\Debug\net5.0-windows\r
 C:\Users\Willy\source\repos\ClasesProgra2Labo2\Vistas\obj\Debug\net5.0-windows\Vistas.pdb
 C:\Users\Willy\source\repos\ClasesProgra2Labo2\Vistas\obj\Debug\net5.0-windows\Vistas.genruntimeconfig.cache
 C:\Users\Willy\source\repos\ClasesProgra2Labo2\Vistas\obj\Debug\net5.0-windows\ref\Vistas.dll
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\Vistas\obj\Debug\net5.0-windows\Vistas.FrmHola.resources
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\Vistas\obj\Debug\net5.0-windows\Vistas.FrmSaludar.resources
+C:\Users\Willy\source\repos\ClasesProgra2Labo2\Vistas\obj\Debug\net5.0-windows\Vistas.FrmSaludo.resources
