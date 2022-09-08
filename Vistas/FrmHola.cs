@@ -22,23 +22,20 @@ namespace Vistas
         {
             string nombre;
             string apellido;
-           
+            string materia = " ";
             nombre = this.txtNombre.Text;
             apellido = this.txtApellido.Text;
+            materia = this.cboMateria.Text;
 
-            if(string.IsNullOrEmpty(nombre) || string.IsNullOrEmpty(apellido))
+            if(string.IsNullOrEmpty(nombre) || string.IsNullOrEmpty(apellido) || string.IsNullOrEmpty(materia))
             {
                 MessageBox.Show("Hubo un error no ingreso los datos","Error",MessageBoxButtons.OK,MessageBoxIcon.Error);
             }
             else
             {
-                FrmSaludo frmSaludo = new FrmSaludo(nombre,apellido);
+                FrmSaludo frmSaludo = new FrmSaludo(nombre,apellido,materia);
                 frmSaludo.ShowDialog();
             }
         }
-
-        
-
-
     }
 }

@@ -33,6 +33,8 @@
             this.txtNombre = new System.Windows.Forms.TextBox();
             this.txtApellido = new System.Windows.Forms.TextBox();
             this.btnSaludar = new System.Windows.Forms.Button();
+            this.lblMateria = new System.Windows.Forms.Label();
+            this.cboMateria = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
             // lblNombre
@@ -71,7 +73,7 @@
             // 
             // btnSaludar
             // 
-            this.btnSaludar.Location = new System.Drawing.Point(349, 200);
+            this.btnSaludar.Location = new System.Drawing.Point(349, 270);
             this.btnSaludar.Name = "btnSaludar";
             this.btnSaludar.Size = new System.Drawing.Size(100, 23);
             this.btnSaludar.TabIndex = 4;
@@ -79,12 +81,44 @@
             this.btnSaludar.UseVisualStyleBackColor = true;
             this.btnSaludar.Click += new System.EventHandler(this.btnSaludar_Click);
             // 
+            // lblMateria
+            // 
+            this.lblMateria.AutoSize = true;
+            this.lblMateria.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.lblMateria.Location = new System.Drawing.Point(107, 165);
+            this.lblMateria.Name = "lblMateria";
+            this.lblMateria.Size = new System.Drawing.Size(98, 15);
+            this.lblMateria.TabIndex = 5;
+            this.lblMateria.Text = "Materia Favorita";
+            // 
+            // cboMateria
+            // 
+            this.cboMateria.FormattingEnabled = true;
+            this.cboMateria.Items.AddRange(new object[] {
+            "Matematicas ",
+            "Ingles 1",
+            "Ingles 2",
+            "Programación 1",
+            "Programación 2",
+            "Laboratorio de Programación 1",
+            "Laboratorio de Programación 2",
+            "Metodologia de la Investigación",
+            "Sistema de Datos",
+            "Arquitectura de Sistemas Operativos",
+            "Estadistica "});
+            this.cboMateria.Location = new System.Drawing.Point(106, 198);
+            this.cboMateria.Name = "cboMateria";
+            this.cboMateria.Size = new System.Drawing.Size(121, 23);
+            this.cboMateria.TabIndex = 6;
+            // 
             // FrmHola
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Info;
             this.ClientSize = new System.Drawing.Size(803, 454);
+            this.Controls.Add(this.cboMateria);
+            this.Controls.Add(this.lblMateria);
             this.Controls.Add(this.btnSaludar);
             this.Controls.Add(this.txtApellido);
             this.Controls.Add(this.txtNombre);
@@ -108,5 +142,7 @@
         private System.Windows.Forms.TextBox txtNombre;
         private System.Windows.Forms.TextBox txtApellido;
         private System.Windows.Forms.Button btnSaludar;
+        private System.Windows.Forms.Label lblMateria;
+        private System.Windows.Forms.ComboBox cboMateria;
     }
 }
