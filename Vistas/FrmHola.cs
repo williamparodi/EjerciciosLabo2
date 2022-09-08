@@ -73,7 +73,7 @@ namespace Vistas
 
         }
 
-        private void FrmHola_Load(object sender, EventArgs e)// Al cargar el form ya seteo que aparezca la primera materia, es un evento el form
+        private void FrmHola_Load(object sender, EventArgs e)// Al cargar el form ya seteo que aparezca la primera materia, es un evento el form (load)
         {
             cboMateria.SelectedIndex = 0;
         }
