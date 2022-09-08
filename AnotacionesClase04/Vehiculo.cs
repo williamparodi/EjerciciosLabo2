@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Text;
 
 namespace AnotacionesClase04
 {
@@ -14,14 +10,14 @@ namespace AnotacionesClase04
         private string color;
         private int litrosNafta;
 
-        public Vehiculo(string marca,int puertas, string color)
+        public Vehiculo(string marca, int puertas, string color)
         {
             this.marca = marca;
             this.puertas = puertas;
             this.color = color;
         }
 
-        public Vehiculo(string marca,int puertas,string color,int litrosNafta) : this(marca,puertas,color)// este this se ejecuta primero 
+        public Vehiculo(string marca, int puertas, string color, int litrosNafta) : this(marca, puertas, color)// este this se ejecuta primero 
         {
             this.litrosNafta = litrosNafta;
         }
@@ -29,8 +25,14 @@ namespace AnotacionesClase04
         //Propiedades se declaran asi:SIN Parentesis
         public string Color
         {
-            get { return this.color; }
-            set { this.color = value; } // se puede validar tamb en el set
+            get
+            {
+                return this.color;
+            }
+            set
+            {
+                this.color = value;
+            } // se puede validar tamb en el set
             /*set
             {
                 if(value != null)
@@ -50,7 +52,7 @@ namespace AnotacionesClase04
         //v1.Color  = v1.Color; get
 
         //Console.WirteLine(v1.Mostrar());
-        
+
         //Sobrecarga metodos
         public string Mostrar()
         {
@@ -90,7 +92,7 @@ namespace AnotacionesClase04
 
         // Sobrecarga Conversion Implicit e Explicit
 
-        public static implicit operator string (Vehiculo v1)// implicit
+        public static implicit operator string(Vehiculo v1)// implicit
         {
             return v1.color;// puede guardar y no aviso que se puede perder datos
         }
