@@ -95,17 +95,17 @@
             // 
             this.cboMateria.FormattingEnabled = true;
             this.cboMateria.Items.AddRange(new object[] {
-            "Matematicas ",
+            "Matemáticas ",
             "Ingles 1",
             "Ingles 2",
             "Programación 1",
             "Programación 2",
             "Laboratorio de Programación 1",
             "Laboratorio de Programación 2",
-            "Metodologia de la Investigación",
-            "Sistema de Datos",
-            "Arquitectura de Sistemas Operativos",
-            "Estadistica "});
+            "Metodología de la Investigación",
+            "Sistema de procesamiento de Datos",
+            "Arquitectura y Sistemas Operativos",
+            "Estadística "});
             this.cboMateria.Location = new System.Drawing.Point(106, 198);
             this.cboMateria.Name = "cboMateria";
             this.cboMateria.Size = new System.Drawing.Size(121, 23);
@@ -130,6 +130,7 @@
             this.Name = "FrmHola";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "!Hola,Windows Forms!";
+            this.Load += new System.EventHandler(this.FrmHola_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
