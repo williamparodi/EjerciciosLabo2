@@ -12,5 +12,34 @@ namespace Entidades
         private string direccion;
         private int edad;
         private string genero;
+        private string nombre;
+        private string pais;
+
+        public Ingresante(string nombre,string direccion,string genero,string pais,string[] cursos,int edad)
+        { 
+            this.nombre = nombre;
+            this.direccion = direccion;
+            this.genero = genero;
+            this.pais = pais;
+            this.cursos = new string[3];
+            this.edad = edad;
+        }
+
+        public string Mostrar() 
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine($"Nombre: {this.nombre} ");
+            sb.AppendLine($"Dirección: {this.direccion} ");
+            sb.AppendLine($"Edad: {this.edad} ");
+            sb.AppendLine($"Genero: {this.genero}");
+            sb.AppendLine($"País: {this.pais} ");
+            sb.AppendLine($"Curso/s:");
+
+            for(int i = 0; i < this.cursos.Length; i++)
+            {
+                sb.AppendLine($"{this.cursos}");
+            }
+            return sb.ToString();
+        }
     }
 }

@@ -29,20 +29,20 @@
         private void InitializeComponent()
         {
             this.grpBox = new System.Windows.Forms.GroupBox();
-            this.txtNombre = new System.Windows.Forms.TextBox();
-            this.txtDireccion = new System.Windows.Forms.TextBox();
-            this.lblNombre = new System.Windows.Forms.Label();
-            this.lblDireccion = new System.Windows.Forms.Label();
-            this.lblEdad = new System.Windows.Forms.Label();
             this.numericUpDownEdad = new System.Windows.Forms.NumericUpDown();
+            this.lblEdad = new System.Windows.Forms.Label();
+            this.lblDireccion = new System.Windows.Forms.Label();
+            this.lblNombre = new System.Windows.Forms.Label();
+            this.txtDireccion = new System.Windows.Forms.TextBox();
+            this.txtNombre = new System.Windows.Forms.TextBox();
             this.grpBoxGenero = new System.Windows.Forms.GroupBox();
-            this.radioButtonMasculino = new System.Windows.Forms.RadioButton();
-            this.radioButtonFemenino = new System.Windows.Forms.RadioButton();
             this.radioButtonNoBinario = new System.Windows.Forms.RadioButton();
+            this.radioButtonFemenino = new System.Windows.Forms.RadioButton();
+            this.radioButtonMasculino = new System.Windows.Forms.RadioButton();
             this.grpBoxCursos = new System.Windows.Forms.GroupBox();
-            this.checkBoxCSharp = new System.Windows.Forms.CheckBox();
-            this.checkBoxCPlus = new System.Windows.Forms.CheckBox();
             this.checkBoxJs = new System.Windows.Forms.CheckBox();
+            this.checkBoxCPlus = new System.Windows.Forms.CheckBox();
+            this.checkBoxCSharp = new System.Windows.Forms.CheckBox();
             this.listBoxPaises = new System.Windows.Forms.ListBox();
             this.lblPais = new System.Windows.Forms.Label();
             this.btnIngresar = new System.Windows.Forms.Button();
@@ -67,37 +67,12 @@
             this.grpBox.TabStop = false;
             this.grpBox.Text = "Detalles del usuario";
             // 
-            // txtNombre
+            // numericUpDownEdad
             // 
-            this.txtNombre.Location = new System.Drawing.Point(101, 33);
-            this.txtNombre.Name = "txtNombre";
-            this.txtNombre.Size = new System.Drawing.Size(100, 23);
-            this.txtNombre.TabIndex = 0;
-            // 
-            // txtDireccion
-            // 
-            this.txtDireccion.Location = new System.Drawing.Point(101, 80);
-            this.txtDireccion.Name = "txtDireccion";
-            this.txtDireccion.Size = new System.Drawing.Size(100, 23);
-            this.txtDireccion.TabIndex = 1;
-            // 
-            // lblNombre
-            // 
-            this.lblNombre.AutoSize = true;
-            this.lblNombre.Location = new System.Drawing.Point(23, 33);
-            this.lblNombre.Name = "lblNombre";
-            this.lblNombre.Size = new System.Drawing.Size(51, 15);
-            this.lblNombre.TabIndex = 2;
-            this.lblNombre.Text = "Nombre";
-            // 
-            // lblDireccion
-            // 
-            this.lblDireccion.AutoSize = true;
-            this.lblDireccion.Location = new System.Drawing.Point(28, 82);
-            this.lblDireccion.Name = "lblDireccion";
-            this.lblDireccion.Size = new System.Drawing.Size(57, 15);
-            this.lblDireccion.TabIndex = 3;
-            this.lblDireccion.Text = "Direccion";
+            this.numericUpDownEdad.Location = new System.Drawing.Point(99, 131);
+            this.numericUpDownEdad.Name = "numericUpDownEdad";
+            this.numericUpDownEdad.Size = new System.Drawing.Size(102, 23);
+            this.numericUpDownEdad.TabIndex = 5;
             // 
             // lblEdad
             // 
@@ -108,12 +83,37 @@
             this.lblEdad.TabIndex = 4;
             this.lblEdad.Text = "Edad";
             // 
-            // numericUpDownEdad
+            // lblDireccion
             // 
-            this.numericUpDownEdad.Location = new System.Drawing.Point(99, 131);
-            this.numericUpDownEdad.Name = "numericUpDownEdad";
-            this.numericUpDownEdad.Size = new System.Drawing.Size(102, 23);
-            this.numericUpDownEdad.TabIndex = 5;
+            this.lblDireccion.AutoSize = true;
+            this.lblDireccion.Location = new System.Drawing.Point(28, 82);
+            this.lblDireccion.Name = "lblDireccion";
+            this.lblDireccion.Size = new System.Drawing.Size(57, 15);
+            this.lblDireccion.TabIndex = 3;
+            this.lblDireccion.Text = "Direccion";
+            // 
+            // lblNombre
+            // 
+            this.lblNombre.AutoSize = true;
+            this.lblNombre.Location = new System.Drawing.Point(23, 33);
+            this.lblNombre.Name = "lblNombre";
+            this.lblNombre.Size = new System.Drawing.Size(51, 15);
+            this.lblNombre.TabIndex = 2;
+            this.lblNombre.Text = "Nombre";
+            // 
+            // txtDireccion
+            // 
+            this.txtDireccion.Location = new System.Drawing.Point(101, 80);
+            this.txtDireccion.Name = "txtDireccion";
+            this.txtDireccion.Size = new System.Drawing.Size(100, 23);
+            this.txtDireccion.TabIndex = 1;
+            // 
+            // txtNombre
+            // 
+            this.txtNombre.Location = new System.Drawing.Point(101, 33);
+            this.txtNombre.Name = "txtNombre";
+            this.txtNombre.Size = new System.Drawing.Size(100, 23);
+            this.txtNombre.TabIndex = 0;
             // 
             // grpBoxGenero
             // 
@@ -127,16 +127,17 @@
             this.grpBoxGenero.TabStop = false;
             this.grpBoxGenero.Text = "Género";
             // 
-            // radioButtonMasculino
+            // radioButtonNoBinario
             // 
-            this.radioButtonMasculino.AutoSize = true;
-            this.radioButtonMasculino.Location = new System.Drawing.Point(21, 26);
-            this.radioButtonMasculino.Name = "radioButtonMasculino";
-            this.radioButtonMasculino.Size = new System.Drawing.Size(80, 19);
-            this.radioButtonMasculino.TabIndex = 0;
-            this.radioButtonMasculino.TabStop = true;
-            this.radioButtonMasculino.Text = "Masculino";
-            this.radioButtonMasculino.UseVisualStyleBackColor = true;
+            this.radioButtonNoBinario.AutoSize = true;
+            this.radioButtonNoBinario.Location = new System.Drawing.Point(21, 104);
+            this.radioButtonNoBinario.Name = "radioButtonNoBinario";
+            this.radioButtonNoBinario.Size = new System.Drawing.Size(81, 19);
+            this.radioButtonNoBinario.TabIndex = 2;
+            this.radioButtonNoBinario.TabStop = true;
+            this.radioButtonNoBinario.Text = "No Binario";
+            this.radioButtonNoBinario.UseVisualStyleBackColor = true;
+            this.radioButtonNoBinario.CheckedChanged += new System.EventHandler(this.radioButtonNoBinario_CheckedChanged);
             // 
             // radioButtonFemenino
             // 
@@ -148,17 +149,19 @@
             this.radioButtonFemenino.TabStop = true;
             this.radioButtonFemenino.Text = "Femenino";
             this.radioButtonFemenino.UseVisualStyleBackColor = true;
+            this.radioButtonFemenino.CheckedChanged += new System.EventHandler(this.radioButtonFemenino_CheckedChanged);
             // 
-            // radioButtonNoBinario
+            // radioButtonMasculino
             // 
-            this.radioButtonNoBinario.AutoSize = true;
-            this.radioButtonNoBinario.Location = new System.Drawing.Point(21, 104);
-            this.radioButtonNoBinario.Name = "radioButtonNoBinario";
-            this.radioButtonNoBinario.Size = new System.Drawing.Size(81, 19);
-            this.radioButtonNoBinario.TabIndex = 2;
-            this.radioButtonNoBinario.TabStop = true;
-            this.radioButtonNoBinario.Text = "No Binario";
-            this.radioButtonNoBinario.UseVisualStyleBackColor = true;
+            this.radioButtonMasculino.AutoSize = true;
+            this.radioButtonMasculino.Location = new System.Drawing.Point(21, 26);
+            this.radioButtonMasculino.Name = "radioButtonMasculino";
+            this.radioButtonMasculino.Size = new System.Drawing.Size(80, 19);
+            this.radioButtonMasculino.TabIndex = 0;
+            this.radioButtonMasculino.TabStop = true;
+            this.radioButtonMasculino.Text = "Masculino";
+            this.radioButtonMasculino.UseVisualStyleBackColor = true;
+            this.radioButtonMasculino.CheckedChanged += new System.EventHandler(this.radioButtonMasculino_CheckedChanged);
             // 
             // grpBoxCursos
             // 
@@ -172,15 +175,15 @@
             this.grpBoxCursos.TabStop = false;
             this.grpBoxCursos.Text = "Cursos";
             // 
-            // checkBoxCSharp
+            // checkBoxJs
             // 
-            this.checkBoxCSharp.AutoSize = true;
-            this.checkBoxCSharp.Location = new System.Drawing.Point(10, 24);
-            this.checkBoxCSharp.Name = "checkBoxCSharp";
-            this.checkBoxCSharp.Size = new System.Drawing.Size(41, 19);
-            this.checkBoxCSharp.TabIndex = 0;
-            this.checkBoxCSharp.Text = "C#";
-            this.checkBoxCSharp.UseVisualStyleBackColor = true;
+            this.checkBoxJs.AutoSize = true;
+            this.checkBoxJs.Location = new System.Drawing.Point(10, 77);
+            this.checkBoxJs.Name = "checkBoxJs";
+            this.checkBoxJs.Size = new System.Drawing.Size(78, 19);
+            this.checkBoxJs.TabIndex = 2;
+            this.checkBoxJs.Text = "JavaScript";
+            this.checkBoxJs.UseVisualStyleBackColor = true;
             // 
             // checkBoxCPlus
             // 
@@ -192,15 +195,16 @@
             this.checkBoxCPlus.Text = "C++";
             this.checkBoxCPlus.UseVisualStyleBackColor = true;
             // 
-            // checkBoxJs
+            // checkBoxCSharp
             // 
-            this.checkBoxJs.AutoSize = true;
-            this.checkBoxJs.Location = new System.Drawing.Point(10, 77);
-            this.checkBoxJs.Name = "checkBoxJs";
-            this.checkBoxJs.Size = new System.Drawing.Size(78, 19);
-            this.checkBoxJs.TabIndex = 2;
-            this.checkBoxJs.Text = "JavaScript";
-            this.checkBoxJs.UseVisualStyleBackColor = true;
+            this.checkBoxCSharp.AutoSize = true;
+            this.checkBoxCSharp.Location = new System.Drawing.Point(10, 24);
+            this.checkBoxCSharp.Name = "checkBoxCSharp";
+            this.checkBoxCSharp.Size = new System.Drawing.Size(41, 19);
+            this.checkBoxCSharp.TabIndex = 0;
+            this.checkBoxCSharp.Text = "C#";
+            this.checkBoxCSharp.UseVisualStyleBackColor = true;
+            this.checkBoxCSharp.CheckedChanged += new System.EventHandler(this.checkBoxCSharp_CheckedChanged);
             // 
             // listBoxPaises
             // 
@@ -232,6 +236,7 @@
             this.btnIngresar.TabIndex = 5;
             this.btnIngresar.Text = "Ingresar";
             this.btnIngresar.UseVisualStyleBackColor = true;
+            this.btnIngresar.Click += new System.EventHandler(this.btnIngresar_Click);
             // 
             // FrmRegistro
             // 
@@ -247,6 +252,7 @@
             this.Controls.Add(this.grpBox);
             this.Name = "FrmRegistro";
             this.Text = "FrmRegistro";
+            this.Load += new System.EventHandler(this.FrmRegistro_Load);
             this.grpBox.ResumeLayout(false);
             this.grpBox.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownEdad)).EndInit();
