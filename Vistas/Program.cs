@@ -17,7 +17,7 @@ namespace Vistas
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmHola());
+            Application.Run(new FrmRegistro());
         }
     }
 }

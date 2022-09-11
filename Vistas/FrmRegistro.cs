@@ -20,6 +20,7 @@ namespace Vistas
             InitializeComponent();
         }
 
+
         private void btnIngresar_Click(object sender, EventArgs e)
         {
             StringBuilder sb = new StringBuilder();
@@ -31,7 +32,8 @@ namespace Vistas
             }
             else
             {
-                Ingresante ingresante = new Ingresante(txtNombre.Text,txtDireccion.Text,genero,listBoxPaises.Text,,(int)numericUpDownEdad.Value);
+                Ingresante ingresante = new Ingresante(txtNombre.Text, txtDireccion.Text, genero, listBoxPaises.Text, cursos, (int)numericUpDownEdad.Value);
+                MessageBox.Show(ingresante.Mostrar());
             }
         }
 
@@ -39,6 +41,10 @@ namespace Vistas
         {
             radioButtonMasculino.Checked = true;
             listBoxPaises.SetSelected(0, true);
+            for(int i = 0;i < cursos.Length;i++)
+            {
+                cursos[i] = "";
+            }
         }
 
         private void radioButtonMasculino_CheckedChanged(object sender, EventArgs e)
@@ -56,18 +62,33 @@ namespace Vistas
             this.genero = radioButtonNoBinario.Text;
         }
 
+
         private void checkBoxCSharp_CheckedChanged(object sender, EventArgs e)
         {
-            if(checkBoxCSharp.Checked)
+            if (checkBoxCSharp.Checked)
             {
                 cursos[0] = checkBoxCSharp.Text;
             }
-            else
-            {
-                cursos[0] = " ";
-            }  
+          
         }
 
+        private void checkBoxCPlus_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBoxCPlus.Checked)
+            {
+                cursos[1] += checkBoxCPlus.Text;
+            }
+        }
+
+        private void checkBoxJs_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBoxJs.Checked)
+            {
+                cursos[2] += checkBoxJs.Text;
+            }
+        }
+
+        
 
     }
 }

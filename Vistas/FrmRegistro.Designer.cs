@@ -184,6 +184,7 @@
             this.checkBoxJs.TabIndex = 2;
             this.checkBoxJs.Text = "JavaScript";
             this.checkBoxJs.UseVisualStyleBackColor = true;
+            this.checkBoxJs.CheckedChanged += new System.EventHandler(this.checkBoxJs_CheckedChanged);
             // 
             // checkBoxCPlus
             // 
@@ -194,6 +195,7 @@
             this.checkBoxCPlus.TabIndex = 1;
             this.checkBoxCPlus.Text = "C++";
             this.checkBoxCPlus.UseVisualStyleBackColor = true;
+            this.checkBoxCPlus.CheckedChanged += new System.EventHandler(this.checkBoxCPlus_CheckedChanged);
             // 
             // checkBoxCSharp
             // 

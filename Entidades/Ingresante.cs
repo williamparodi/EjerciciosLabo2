@@ -21,13 +21,14 @@ namespace Entidades
             this.direccion = direccion;
             this.genero = genero;
             this.pais = pais;
-            this.cursos = new string[3];
+            this.cursos = cursos;
             this.edad = edad;
         }
 
         public string Mostrar() 
         {
             StringBuilder sb = new StringBuilder();
+            int contador = 0;
             sb.AppendLine($"Nombre: {this.nombre} ");
             sb.AppendLine($"Dirección: {this.direccion} ");
             sb.AppendLine($"Edad: {this.edad} ");
@@ -35,10 +36,19 @@ namespace Entidades
             sb.AppendLine($"País: {this.pais} ");
             sb.AppendLine($"Curso/s:");
 
-            for(int i = 0; i < this.cursos.Length; i++)
+            foreach(string curso in cursos)
             {
-                sb.AppendLine($"{this.cursos}");
+                if(curso != "")
+                {
+                    sb.AppendLine($"{curso}");
+                    contador++;
+                }
             }
+            if(contador == 0)
+            {
+                sb.AppendLine("Ninguno");
+            }
+           
             return sb.ToString();
         }
     }
