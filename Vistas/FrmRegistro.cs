@@ -20,7 +20,6 @@ namespace Vistas
             InitializeComponent();
         }
 
-
         private void btnIngresar_Click(object sender, EventArgs e)
         {
             StringBuilder sb = new StringBuilder();
@@ -62,21 +61,19 @@ namespace Vistas
             this.genero = radioButtonNoBinario.Text;
         }
 
-
         private void checkBoxCSharp_CheckedChanged(object sender, EventArgs e)
         {
             if (checkBoxCSharp.Checked)
             {
                 cursos[0] = checkBoxCSharp.Text;
             }
-          
         }
 
         private void checkBoxCPlus_CheckedChanged(object sender, EventArgs e)
         {
             if (checkBoxCPlus.Checked)
             {
-                cursos[1] += checkBoxCPlus.Text;
+                cursos[1] = checkBoxCPlus.Text;
             }
         }
 
@@ -84,7 +81,7 @@ namespace Vistas
         {
             if (checkBoxJs.Checked)
             {
-                cursos[2] += checkBoxJs.Text;
+                cursos[2] = checkBoxJs.Text;
             }
         }
 
