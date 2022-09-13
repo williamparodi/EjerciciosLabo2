@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net5.0-windows7.0": {
+      "Billetes/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Billetes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Billetes.dll": {}
+        }
+      },
       "Entidades/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -15,6 +25,11 @@
     }
   },
   "libraries": {
+    "Billetes/1.0.0": {
+      "type": "project",
+      "path": "../Billetes/Billetes.csproj",
+      "msbuildProject": "../Billetes/Billetes.csproj"
+    },
     "Entidades/1.0.0": {
       "type": "project",
       "path": "../Entidades/Entidades.csproj",
@@ -23,6 +38,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0-windows7.0": [
+      "Billetes >= 1.0.0",
       "Entidades >= 1.0.0"
     ]
   },
@@ -53,6 +69,9 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
+            "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Billetes\\Billetes.csproj": {
+              "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Billetes\\Billetes.csproj"
+            },
             "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Entidades\\Entidades.csproj": {
               "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Entidades\\Entidades.csproj"
             }
