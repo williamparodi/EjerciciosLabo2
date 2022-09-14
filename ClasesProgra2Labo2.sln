@@ -67,6 +67,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vistas", "Vistas\Vistas.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnotacionesClase05", "AnotacionesClase05\AnotacionesClase05.csproj", "{6096644B-471E-4886-B269-81884EDB8CDE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase06-Ejercicio01", "Clase06-Ejercicio01\Clase06-Ejercicio01.csproj", "{7BCDEC9A-7017-4819-B150-8762B2312A01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -181,6 +183,10 @@ Global
 		{6096644B-471E-4886-B269-81884EDB8CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6096644B-471E-4886-B269-81884EDB8CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6096644B-471E-4886-B269-81884EDB8CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BCDEC9A-7017-4819-B150-8762B2312A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BCDEC9A-7017-4819-B150-8762B2312A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BCDEC9A-7017-4819-B150-8762B2312A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BCDEC9A-7017-4819-B150-8762B2312A01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
