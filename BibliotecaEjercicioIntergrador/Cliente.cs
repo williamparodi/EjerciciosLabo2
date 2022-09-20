@@ -32,8 +32,9 @@ namespace BibliotecaEjercicioIntergrador
         private void CrearAlias()
         { 
             Random rnd = new Random();
-            int numero;
             StringBuilder sb = new StringBuilder("");
+            int numero;
+
             numero = rnd.Next(1000, 9999);
             sb.Append(numero.ToString());
             sb.Append(this.tipoDeCliente.ToString());
@@ -43,7 +44,6 @@ namespace BibliotecaEjercicioIntergrador
 
         public string GetAlias()
         {
-
             if(this.aliasParaIncognito == "Sin alias")
             {
                 CrearAlias();
