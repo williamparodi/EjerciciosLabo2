@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\AnotacionesClase05-Repaso\\AnotacionesClase05-Repaso.csproj": {}
+    "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\AnotacionesClase05-Repaso\\AnotacionesClase05-Repaso.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\AnotacionesClase05-Repaso\\AnotacionesClase05-Repaso.csproj": {
+    "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\AnotacionesClase05-Repaso\\AnotacionesClase05-Repaso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\AnotacionesClase05-Repaso\\AnotacionesClase05-Repaso.csproj",
+        "projectUniqueName": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\AnotacionesClase05-Repaso\\AnotacionesClase05-Repaso.csproj",
         "projectName": "AnotacionesClase05-Repaso",
-        "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\AnotacionesClase05-Repaso\\AnotacionesClase05-Repaso.csproj",
+        "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\AnotacionesClase05-Repaso\\AnotacionesClase05-Repaso.csproj",
         "packagesPath": "C:\\Users\\Willy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\AnotacionesClase05-Repaso\\obj\\",
+        "outputPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\AnotacionesClase05-Repaso\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Willy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Entidades\\Entidades.csproj"
+              "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Entidades\\Entidades.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\Willy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Entidades\\obj\\",
+        "outputPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Willy\\AppData\\Roaming\\NuGet\\NuGet.Config",

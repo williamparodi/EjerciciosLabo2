@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\ConversorBinario\\ConversorBinario.csproj",
+      "projectUniqueName": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\ConversorBinario\\ConversorBinario.csproj",
       "projectName": "ConversorBinario",
-      "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\ConversorBinario\\ConversorBinario.csproj",
+      "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\ConversorBinario\\ConversorBinario.csproj",
       "packagesPath": "C:\\Users\\Willy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\ConversorBinario\\obj\\",
+      "outputPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\ConversorBinario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Willy\\AppData\\Roaming\\NuGet\\NuGet.Config",

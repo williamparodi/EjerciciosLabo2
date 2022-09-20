@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Entidades\\Entidades.csproj",
       "projectName": "Entidades",
-      "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Entidades\\Entidades.csproj",
+      "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Entidades\\Entidades.csproj",
       "packagesPath": "C:\\Users\\Willy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Entidades\\obj\\",
+      "outputPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Willy\\AppData\\Roaming\\NuGet\\NuGet.Config",

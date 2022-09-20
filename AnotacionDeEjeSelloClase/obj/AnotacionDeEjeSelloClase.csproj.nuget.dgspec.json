@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\AnotacionDeEjeSelloClase\\AnotacionDeEjeSelloClase.csproj": {}
+    "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\AnotacionDeEjeSelloClase\\AnotacionDeEjeSelloClase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\AnotacionDeEjeSelloClase\\AnotacionDeEjeSelloClase.csproj": {
+    "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\AnotacionDeEjeSelloClase\\AnotacionDeEjeSelloClase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\AnotacionDeEjeSelloClase\\AnotacionDeEjeSelloClase.csproj",
+        "projectUniqueName": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\AnotacionDeEjeSelloClase\\AnotacionDeEjeSelloClase.csproj",
         "projectName": "AnotacionDeEjeSelloClase",
-        "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\AnotacionDeEjeSelloClase\\AnotacionDeEjeSelloClase.csproj",
+        "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\AnotacionDeEjeSelloClase\\AnotacionDeEjeSelloClase.csproj",
         "packagesPath": "C:\\Users\\Willy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\AnotacionDeEjeSelloClase\\obj\\",
+        "outputPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\AnotacionDeEjeSelloClase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Willy\\AppData\\Roaming\\NuGet\\NuGet.Config",

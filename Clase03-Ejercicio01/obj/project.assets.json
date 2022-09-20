@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Clase03-Ejercicio01\\Clase03-Ejercicio01.csproj",
+      "projectUniqueName": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Clase03-Ejercicio01\\Clase03-Ejercicio01.csproj",
       "projectName": "Clase03-Ejercicio01",
-      "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Clase03-Ejercicio01\\Clase03-Ejercicio01.csproj",
+      "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Clase03-Ejercicio01\\Clase03-Ejercicio01.csproj",
       "packagesPath": "C:\\Users\\Willy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Clase03-Ejercicio01\\obj\\",
+      "outputPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Clase03-Ejercicio01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Willy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Entidades\\Entidades.csproj"
+            "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Entidades\\Entidades.csproj"
             }
           }
         }

@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "BibliotecaEjercicioIntergrador/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/BibliotecaEjercicioIntergrador.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BibliotecaEjercicioIntergrador.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BibliotecaEjercicioIntergrador/1.0.0": {
+      "type": "project",
+      "path": "../BibliotecaEjercicioIntergrador/BibliotecaEjercicioIntergrador.csproj",
+      "msbuildProject": "../BibliotecaEjercicioIntergrador/BibliotecaEjercicioIntergrador.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "BibliotecaEjercicioIntergrador >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Willy\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\EjercicioIntegrador\\EjercicioIntegrador.csproj",
+      "projectName": "EjercicioIntegrador",
+      "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\EjercicioIntegrador\\EjercicioIntegrador.csproj",
+      "packagesPath": "C:\\Users\\Willy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\EjercicioIntegrador\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Willy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\BibliotecaEjercicioIntergrador\\BibliotecaEjercicioIntergrador.csproj": {
+              "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\BibliotecaEjercicioIntergrador\\BibliotecaEjercicioIntergrador.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

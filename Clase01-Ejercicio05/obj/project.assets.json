@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Clase01-Ejercicio05\\Clase01-Ejercicio05.csproj",
+      "projectUniqueName": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Clase01-Ejercicio05\\Clase01-Ejercicio05.csproj",
       "projectName": "Clase01-Ejercicio05",
-      "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Clase01-Ejercicio05\\Clase01-Ejercicio05.csproj",
+      "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Clase01-Ejercicio05\\Clase01-Ejercicio05.csproj",
       "packagesPath": "C:\\Users\\Willy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Clase01-Ejercicio05\\obj\\",
+      "outputPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Clase01-Ejercicio05\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Willy\\AppData\\Roaming\\NuGet\\NuGet.Config",

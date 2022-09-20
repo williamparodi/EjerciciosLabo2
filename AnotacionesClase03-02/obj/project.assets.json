@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\AnotacionesClase03-02\\AnotacionesClase03-02.csproj",
+      "projectUniqueName": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\AnotacionesClase03-02\\AnotacionesClase03-02.csproj",
       "projectName": "AnotacionesClase03-02",
-      "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\AnotacionesClase03-02\\AnotacionesClase03-02.csproj",
+      "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\AnotacionesClase03-02\\AnotacionesClase03-02.csproj",
       "packagesPath": "C:\\Users\\Willy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\AnotacionesClase03-02\\obj\\",
+      "outputPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\AnotacionesClase03-02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Willy\\AppData\\Roaming\\NuGet\\NuGet.Config",

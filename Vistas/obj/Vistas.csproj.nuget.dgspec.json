@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Vistas\\Vistas.csproj": {}
+    "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Vistas\\Vistas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\Willy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Entidades\\obj\\",
+        "outputPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Willy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Vistas\\Vistas.csproj": {
+    "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Vistas\\Vistas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Vistas\\Vistas.csproj",
+        "projectUniqueName": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Vistas\\Vistas.csproj",
         "projectName": "Vistas",
-        "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Vistas\\Vistas.csproj",
+        "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Vistas\\Vistas.csproj",
         "packagesPath": "C:\\Users\\Willy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Vistas\\obj\\",
+        "outputPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Vistas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Willy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Entidades\\Entidades.csproj"
+              "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Entidades\\Entidades.csproj"
               }
             }
           }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Clase02-EjercicioSello\\Clase02-EjercicioSello.csproj": {}
+    "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Clase02-EjercicioSello\\Clase02-EjercicioSello.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Clase02-EjercicioSello\\Clase02-EjercicioSello.csproj": {
+    "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Clase02-EjercicioSello\\Clase02-EjercicioSello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Clase02-EjercicioSello\\Clase02-EjercicioSello.csproj",
+        "projectUniqueName": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Clase02-EjercicioSello\\Clase02-EjercicioSello.csproj",
         "projectName": "Clase02-EjercicioSello",
-        "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Clase02-EjercicioSello\\Clase02-EjercicioSello.csproj",
+        "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Clase02-EjercicioSello\\Clase02-EjercicioSello.csproj",
         "packagesPath": "C:\\Users\\Willy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Clase02-EjercicioSello\\obj\\",
+        "outputPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Clase02-EjercicioSello\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Willy\\AppData\\Roaming\\NuGet\\NuGet.Config",

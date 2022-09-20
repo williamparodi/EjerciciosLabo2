@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Billetes\\Billetes.csproj": {}
+    "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Billetes\\Billetes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Billetes\\Billetes.csproj": {
+    "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Billetes\\Billetes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Billetes\\Billetes.csproj",
+        "projectUniqueName": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Billetes\\Billetes.csproj",
         "projectName": "Billetes",
-        "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Billetes\\Billetes.csproj",
+        "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Billetes\\Billetes.csproj",
         "packagesPath": "C:\\Users\\Willy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Willy\\source\\repos\\ClasesProgra2Labo2\\Billetes\\obj\\",
+        "outputPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Billetes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Willy\\AppData\\Roaming\\NuGet\\NuGet.Config",
