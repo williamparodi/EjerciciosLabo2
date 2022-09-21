@@ -21,18 +21,6 @@ namespace Entidades
             this.nombre = nombre;
         }
 
-        public string Nombre//Propiedad 
-        {
-            get
-            {
-                return Nombre;
-            }
-            set
-            {
-                this.nombre = value;
-            }
-        }
-
         public int Numero//Propiedad
         {
             get
@@ -41,15 +29,29 @@ namespace Entidades
             }
         }
 
+        public string Nombre//Propiedad 
+        {
+            get
+            {
+                return nombre;
+            }
+            set
+            {
+                nombre = value;
+            }
+        }
+
         public static bool operator ==(Cliente c1, Cliente c2)
         {
-            return (c1.numero == c2.numero);
+            return c1.numero == c2.numero;
         }
 
         public static bool operator !=(Cliente c1, Cliente c2)
         {
-            return !(c1.numero == c2.numero);
+            return !(c1 == c2);
         }
+
+        
 
     }
 }

@@ -19,14 +19,14 @@ namespace Entidades
         private static int numeroActual;
         private EPuesto Puesto;
 
-        private PuestoAtencion()
+        static  PuestoAtencion()
         {
-            numeroActual = 0;
+            PuestoAtencion.numeroActual = 0;
         }
 
         public PuestoAtencion(EPuesto puesto)
         {
-            Puesto = puesto;
+            this.Puesto = puesto;
         }
 
         public static int NumeroActual//Propiedad
@@ -38,11 +38,11 @@ namespace Entidades
             }
         }
 
-        public bool Atender(Cliente cli)
+        public  bool Atender(Cliente cli)
         {
             bool retorno = false;
 
-            if(cli != null)
+            if(cli is not null)
             {
                 Thread.Sleep(2000);
                 retorno = true;

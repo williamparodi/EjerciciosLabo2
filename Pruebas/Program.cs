@@ -13,13 +13,32 @@ namespace Pruebas
         {
             
             List<string> listaPersonas = new List<string>();
+            string nombrePersona1 = "Pepe";
+            string nombrePersona2 = "Alberto";
+            string nombrePersona3 = "Morrissey";
+            string nombrePersona4 = "Pablo";
             
-            foreach(string s in listaPersonas)
+            listaPersonas.Add(nombrePersona1);
+            listaPersonas.Add(nombrePersona2);
+            listaPersonas.Add(nombrePersona3);
+            listaPersonas.Add(nombrePersona4);
+
+            if(listaPersonas.Count > 0)
             {
-                listaPersonas.Add(s);
+                if(listaPersonas.Contains("Morrissey"))
+                {
+                    Console.WriteLine("Hay un famoso groso");
+                }
+                else
+                {
+                    Console.WriteLine("Morrissey no aparace");
+                }
+
+              
             }
 
         }
+
 
     }
 }

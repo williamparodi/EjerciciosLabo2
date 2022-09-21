@@ -55,7 +55,7 @@ namespace AnotacionesClase05
 
             foreach(int num in miSorted)
             {
-                Console.WriteLine(item.Value);
+                Console.WriteLine(num.Value);
             }
         }
     }
