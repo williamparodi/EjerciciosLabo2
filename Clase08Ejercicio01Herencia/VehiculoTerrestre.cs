@@ -15,8 +15,6 @@ namespace Clase08Ejercicio01Herencia
             this.color = color; 
         }
 
-        
-        
 
     }
 }

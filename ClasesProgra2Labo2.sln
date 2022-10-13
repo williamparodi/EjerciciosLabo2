@@ -89,11 +89,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pruebas", "Pruebas\Pruebas.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EjercicioIntegralOffShores", "EjercicioIntegralOffShores", "{477736D9-06DB-4E35-AB34-149134D40E95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animal", "AnimalClase08\Animal.csproj", "{92BC0949-3936-429B-B359-243E5DB23EF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Animal", "AnimalClase08\Animal.csproj", "{92BC0949-3936-429B-B359-243E5DB23EF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase08Ejercicio01Herencia", "Clase08Ejercicio01Herencia\Clase08Ejercicio01Herencia.csproj", "{3AD07B24-2D5C-4D65-8A47-361B0ECCD282}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase08Ejercicio01Herencia", "Clase08Ejercicio01Herencia\Clase08Ejercicio01Herencia.csproj", "{3AD07B24-2D5C-4D65-8A47-361B0ECCD282}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase08Ejercicio01Vehiculos", "Clase08Ejercicio01Vehiculos\Clase08Ejercicio01Vehiculos.csproj", "{8F64DCC6-F17D-487B-970B-3EE532295075}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase08Ejercicio01Vehiculos", "Clase08Ejercicio01Vehiculos\Clase08Ejercicio01Vehiculos.csproj", "{8F64DCC6-F17D-487B-970B-3EE532295075}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase09-Ejercicio01-Polimorfismo", "Clase09-Ejercicio01-Polimorfismo\Clase09-Ejercicio01-Polimorfismo.csproj", "{4792E496-7135-4E97-9DAA-883E0C1BB545}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase10-Anotaciones", "Clase10-Anotaciones\Clase10-Anotaciones.csproj", "{A327D0B7-3C89-4C0C-9365-5DDB1BBB5AEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clase10-Ejer02-Exception", "clase10-Ejer02-Exception\clase10-Ejer02-Exception.csproj", "{31CBBBF5-A689-4B35-AB90-CD45A9E38464}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -253,6 +259,18 @@ Global
 		{8F64DCC6-F17D-487B-970B-3EE532295075}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F64DCC6-F17D-487B-970B-3EE532295075}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F64DCC6-F17D-487B-970B-3EE532295075}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4792E496-7135-4E97-9DAA-883E0C1BB545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4792E496-7135-4E97-9DAA-883E0C1BB545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4792E496-7135-4E97-9DAA-883E0C1BB545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4792E496-7135-4E97-9DAA-883E0C1BB545}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A327D0B7-3C89-4C0C-9365-5DDB1BBB5AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A327D0B7-3C89-4C0C-9365-5DDB1BBB5AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A327D0B7-3C89-4C0C-9365-5DDB1BBB5AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A327D0B7-3C89-4C0C-9365-5DDB1BBB5AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31CBBBF5-A689-4B35-AB90-CD45A9E38464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31CBBBF5-A689-4B35-AB90-CD45A9E38464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31CBBBF5-A689-4B35-AB90-CD45A9E38464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31CBBBF5-A689-4B35-AB90-CD45A9E38464}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
