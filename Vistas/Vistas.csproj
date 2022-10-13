@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\clase10-Ejer02-Exception\clase10-Ejer02-Exception.csproj" />
     <ProjectReference Include="..\Entidades\Entidades.csproj" />
   </ItemGroup>
 

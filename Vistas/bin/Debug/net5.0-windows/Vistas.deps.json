@@ -8,10 +8,16 @@
     ".NETCoreApp,Version=v5.0": {
       "Vistas/1.0.0": {
         "dependencies": {
-          "Entidades": "1.0.0"
+          "Entidades": "1.0.0",
+          "clase10-Ejer02-Exception": "1.0.0"
         },
         "runtime": {
           "Vistas.dll": {}
+        }
+      },
+      "clase10-Ejer02-Exception/1.0.0": {
+        "runtime": {
+          "clase10-Ejer02-Exception.dll": {}
         }
       },
       "Entidades/1.0.0": {
@@ -23,6 +29,11 @@
   },
   "libraries": {
     "Vistas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "clase10-Ejer02-Exception/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

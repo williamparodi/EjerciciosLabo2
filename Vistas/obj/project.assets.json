@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net5.0-windows7.0": {
+      "clase10-Ejer02-Exception/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/clase10-Ejer02-Exception.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/clase10-Ejer02-Exception.dll": {}
+        }
+      },
       "Entidades/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -15,6 +25,11 @@
     }
   },
   "libraries": {
+    "clase10-Ejer02-Exception/1.0.0": {
+      "type": "project",
+      "path": "../clase10-Ejer02-Exception/clase10-Ejer02-Exception.csproj",
+      "msbuildProject": "../clase10-Ejer02-Exception/clase10-Ejer02-Exception.csproj"
+    },
     "Entidades/1.0.0": {
       "type": "project",
       "path": "../Entidades/Entidades.csproj",
@@ -23,7 +38,8 @@
   },
   "projectFileDependencyGroups": {
     "net5.0-windows7.0": [
-      "Entidades >= 1.0.0"
+      "Entidades >= 1.0.0",
+      "clase10-Ejer02-Exception >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -53,6 +69,9 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
+            "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\clase10-Ejer02-Exception\\clase10-Ejer02-Exception.csproj": {
+              "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\clase10-Ejer02-Exception\\clase10-Ejer02-Exception.csproj"
+            },
             "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Entidades\\Entidades.csproj": {
               "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Entidades\\Entidades.csproj"
             }

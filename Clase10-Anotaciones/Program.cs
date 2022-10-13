@@ -124,10 +124,9 @@ namespace Clase10_Anotaciones
             }
             catch (OverflowException ex)// busco el error especifico
             {
-                throw new MiExcepcion("MI excepcion con parametros",ex);
+                throw new MiExcepcion("Mi excepcion con parametros",ex);
             }
            
-
             return numero;
         }
 

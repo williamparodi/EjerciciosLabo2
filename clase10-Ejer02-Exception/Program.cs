@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.CompilerServices;
 
 namespace clase10_Ejer02_Exception
 {
@@ -6,7 +7,7 @@ namespace clase10_Ejer02_Exception
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
         }
     }
 }

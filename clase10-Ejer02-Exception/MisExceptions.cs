@@ -9,17 +9,16 @@ namespace clase10_Ejer02_Exception
 {
     public class MisExceptions : Exception
     {
-        private string mensaje;
-        public MisExceptions() :base("Mi exception")
-        {
-            
-        }
-
+        
         public MisExceptions(string mensaje) :base(mensaje)
         {
              
         }
+        
+        public MisExceptions(string mensaje,Exception innerException) :base(mensaje,innerException)
+        {
 
+        }
 
     }
 }
