@@ -1,0 +1,16 @@
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionDeEjeSelloClase\bin\Debug\net5.0\AnotacionDeEjeSelloClase.exe
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionDeEjeSelloClase\bin\Debug\net5.0\AnotacionDeEjeSelloClase.deps.json
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionDeEjeSelloClase\bin\Debug\net5.0\AnotacionDeEjeSelloClase.runtimeconfig.json
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionDeEjeSelloClase\bin\Debug\net5.0\AnotacionDeEjeSelloClase.runtimeconfig.dev.json
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionDeEjeSelloClase\bin\Debug\net5.0\AnotacionDeEjeSelloClase.dll
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionDeEjeSelloClase\bin\Debug\net5.0\AnotacionDeEjeSelloClase.pdb
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionDeEjeSelloClase\obj\Debug\net5.0\AnotacionDeEjeSelloClase.csproj.AssemblyReference.cache
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionDeEjeSelloClase\obj\Debug\net5.0\AnotacionDeEjeSelloClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionDeEjeSelloClase\obj\Debug\net5.0\AnotacionDeEjeSelloClase.AssemblyInfoInputs.cache
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionDeEjeSelloClase\obj\Debug\net5.0\AnotacionDeEjeSelloClase.AssemblyInfo.cs
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionDeEjeSelloClase\obj\Debug\net5.0\AnotacionDeEjeSelloClase.csproj.CoreCompileInputs.cache
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionDeEjeSelloClase\obj\Debug\net5.0\AnotacionDeEjeSelloClase.dll
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionDeEjeSelloClase\obj\Debug\net5.0\refint\AnotacionDeEjeSelloClase.dll
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionDeEjeSelloClase\obj\Debug\net5.0\AnotacionDeEjeSelloClase.pdb
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionDeEjeSelloClase\obj\Debug\net5.0\AnotacionDeEjeSelloClase.genruntimeconfig.cache
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionDeEjeSelloClase\obj\Debug\net5.0\ref\AnotacionDeEjeSelloClase.dll

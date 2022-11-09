@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUsuario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Usuario>
+    <nombre>Pedro</nombre>
+    <edad>22</edad>
+    <descripcion>Pedro descripcion</descripcion>
+  </Usuario>
+  <Usuario>
+    <nombre>Caelos</nombre>
+    <edad>42</edad>
+    <descripcion>Caelos descripcion</descripcion>
+  </Usuario>
+</ArrayOfUsuario><?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUsuario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Usuario>
+    <nombre>Pedro</nombre>
+    <edad>22</edad>
+    <descripcion>Pedro descripcion</descripcion>
+  </Usuario>
+  <Usuario>
+    <nombre>Caelos</nombre>
+    <edad>42</edad>
+    <descripcion>Caelos descripcion</descripcion>
+  </Usuario>
+</ArrayOfUsuario><?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUsuario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Usuario>
+    <nombre>Pedro</nombre>
+    <edad>22</edad>
+    <descripcion>Pedro descripcion</descripcion>
+  </Usuario>
+  <Usuario>
+    <nombre>Caelos</nombre>
+    <edad>42</edad>
+    <descripcion>Caelos descripcion</descripcion>
+  </Usuario>
+</ArrayOfUsuario>

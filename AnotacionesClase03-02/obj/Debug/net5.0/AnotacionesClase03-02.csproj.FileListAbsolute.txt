@@ -1,0 +1,16 @@
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionesClase03-02\bin\Debug\net5.0\AnotacionesClase03-02.exe
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionesClase03-02\bin\Debug\net5.0\AnotacionesClase03-02.deps.json
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionesClase03-02\bin\Debug\net5.0\AnotacionesClase03-02.runtimeconfig.json
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionesClase03-02\bin\Debug\net5.0\AnotacionesClase03-02.runtimeconfig.dev.json
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionesClase03-02\bin\Debug\net5.0\AnotacionesClase03-02.dll
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionesClase03-02\bin\Debug\net5.0\AnotacionesClase03-02.pdb
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionesClase03-02\obj\Debug\net5.0\AnotacionesClase03-02.csproj.AssemblyReference.cache
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionesClase03-02\obj\Debug\net5.0\AnotacionesClase03-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionesClase03-02\obj\Debug\net5.0\AnotacionesClase03-02.AssemblyInfoInputs.cache
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionesClase03-02\obj\Debug\net5.0\AnotacionesClase03-02.AssemblyInfo.cs
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionesClase03-02\obj\Debug\net5.0\AnotacionesClase03-02.csproj.CoreCompileInputs.cache
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionesClase03-02\obj\Debug\net5.0\AnotacionesClase03-02.dll
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionesClase03-02\obj\Debug\net5.0\refint\AnotacionesClase03-02.dll
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionesClase03-02\obj\Debug\net5.0\AnotacionesClase03-02.pdb
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionesClase03-02\obj\Debug\net5.0\AnotacionesClase03-02.genruntimeconfig.cache
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionesClase03-02\obj\Debug\net5.0\ref\AnotacionesClase03-02.dll
