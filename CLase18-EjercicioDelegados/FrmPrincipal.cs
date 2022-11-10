@@ -10,12 +10,37 @@ using System.Windows.Forms;
 
 namespace CLase18_EjercicioDelegados
 {
-    public partial class Form1 : Form
+    public partial class FrmPrincipal : Form
     {
-        public Form1()
+        private FrmMostrar frmMostrar;
+        private FrmTestDelegados frmTestDelegados;
+        public FrmPrincipal()
         {
             InitializeComponent();
+            frmMostrar = new FrmMostrar();
+            frmTestDelegados = new FrmTestDelegados(frmMostrar.ActualizarNombre);
         }
 
+        private void FrmPrincipal_Load(object sender, EventArgs e)
+        {
+            frmMostrar.MdiParent = this;
+            frmTestDelegados.MdiParent = this;
+        }
+
+        private void testDelegadosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmTestDelegados.Show();
+            mostrarToolStripMenuItem.Enabled = true;
+        }
+
+        private void alumnoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void mostrarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmMostrar.Show();
+        }
     }
 }

@@ -58,7 +58,6 @@
             this.Controls.Add(this.txtNombre);
             this.Name = "FrmTestDelegados";
             this.Text = "Test Delegados";
-            this.Load += new System.EventHandler(this.FrmTestDelegados_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -1,0 +1,16 @@
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase18Delegados-Anotaciones\bin\Debug\net5.0\Clase18Delegados-Anotaciones.exe
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase18Delegados-Anotaciones\bin\Debug\net5.0\Clase18Delegados-Anotaciones.deps.json
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase18Delegados-Anotaciones\bin\Debug\net5.0\Clase18Delegados-Anotaciones.runtimeconfig.json
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase18Delegados-Anotaciones\bin\Debug\net5.0\Clase18Delegados-Anotaciones.runtimeconfig.dev.json
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase18Delegados-Anotaciones\bin\Debug\net5.0\Clase18Delegados-Anotaciones.dll
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase18Delegados-Anotaciones\bin\Debug\net5.0\Clase18Delegados-Anotaciones.pdb
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase18Delegados-Anotaciones\obj\Debug\net5.0\Clase18Delegados-Anotaciones.csproj.AssemblyReference.cache
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase18Delegados-Anotaciones\obj\Debug\net5.0\Clase18Delegados-Anotaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase18Delegados-Anotaciones\obj\Debug\net5.0\Clase18Delegados-Anotaciones.AssemblyInfoInputs.cache
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase18Delegados-Anotaciones\obj\Debug\net5.0\Clase18Delegados-Anotaciones.AssemblyInfo.cs
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase18Delegados-Anotaciones\obj\Debug\net5.0\Clase18Delegados-Anotaciones.csproj.CoreCompileInputs.cache
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase18Delegados-Anotaciones\obj\Debug\net5.0\Clase18Delegados-Anotaciones.dll
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase18Delegados-Anotaciones\obj\Debug\net5.0\refint\Clase18Delegados-Anotaciones.dll
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase18Delegados-Anotaciones\obj\Debug\net5.0\Clase18Delegados-Anotaciones.pdb
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase18Delegados-Anotaciones\obj\Debug\net5.0\Clase18Delegados-Anotaciones.genruntimeconfig.cache
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase18Delegados-Anotaciones\obj\Debug\net5.0\ref\Clase18Delegados-Anotaciones.dll
