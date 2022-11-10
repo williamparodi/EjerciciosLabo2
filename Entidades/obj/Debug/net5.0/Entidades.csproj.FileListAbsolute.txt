@@ -10,15 +10,3 @@ C:\Users\Willy\source\repos\ClasesProgra2Labo2\Entidades\obj\Debug\net5.0\Entida
 C:\Users\Willy\source\repos\ClasesProgra2Labo2\Entidades\obj\Debug\net5.0\refint\Entidades.dll
 C:\Users\Willy\source\repos\ClasesProgra2Labo2\Entidades\obj\Debug\net5.0\Entidades.pdb
 C:\Users\Willy\source\repos\ClasesProgra2Labo2\Entidades\obj\Debug\net5.0\ref\Entidades.dll
-C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Entidades\bin\Debug\net5.0\Entidades.deps.json
-C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Entidades\bin\Debug\net5.0\Entidades.dll
-C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Entidades\bin\Debug\net5.0\Entidades.pdb
-C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
-C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
-C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
-C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
-C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Entidades\obj\Debug\net5.0\Entidades.dll
-C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Entidades\obj\Debug\net5.0\refint\Entidades.dll
-C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Entidades\obj\Debug\net5.0\Entidades.pdb
-C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Entidades\obj\Debug\net5.0\ref\Entidades.dll

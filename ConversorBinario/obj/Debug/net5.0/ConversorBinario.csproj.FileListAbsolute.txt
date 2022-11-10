@@ -10,15 +10,3 @@ C:\Users\Willy\source\repos\ClasesProgra2Labo2\ConversorBinario\obj\Debug\net5.0
 C:\Users\Willy\source\repos\ClasesProgra2Labo2\ConversorBinario\obj\Debug\net5.0\refint\ConversorBinario.dll
 C:\Users\Willy\source\repos\ClasesProgra2Labo2\ConversorBinario\obj\Debug\net5.0\ConversorBinario.pdb
 C:\Users\Willy\source\repos\ClasesProgra2Labo2\ConversorBinario\obj\Debug\net5.0\ref\ConversorBinario.dll
-C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\ConversorBinario\bin\Debug\net5.0\ConversorBinario.deps.json
-C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\ConversorBinario\bin\Debug\net5.0\ConversorBinario.dll
-C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\ConversorBinario\bin\Debug\net5.0\ConversorBinario.pdb
-C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\ConversorBinario\obj\Debug\net5.0\ConversorBinario.csproj.AssemblyReference.cache
-C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\ConversorBinario\obj\Debug\net5.0\ConversorBinario.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\ConversorBinario\obj\Debug\net5.0\ConversorBinario.AssemblyInfoInputs.cache
-C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\ConversorBinario\obj\Debug\net5.0\ConversorBinario.AssemblyInfo.cs
-C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\ConversorBinario\obj\Debug\net5.0\ConversorBinario.csproj.CoreCompileInputs.cache
-C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\ConversorBinario\obj\Debug\net5.0\ConversorBinario.dll
-C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\ConversorBinario\obj\Debug\net5.0\refint\ConversorBinario.dll
-C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\ConversorBinario\obj\Debug\net5.0\ConversorBinario.pdb
-C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\ConversorBinario\obj\Debug\net5.0\ref\ConversorBinario.dll
