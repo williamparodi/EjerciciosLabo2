@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Clase09-Ejercicio01-Polimorfismo/1.0.0": {
+        "runtime": {
+          "Clase09-Ejercicio01-Polimorfismo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase09-Ejercicio01-Polimorfismo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

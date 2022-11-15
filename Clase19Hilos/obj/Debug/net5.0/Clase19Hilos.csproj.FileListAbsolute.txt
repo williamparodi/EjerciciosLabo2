@@ -1,0 +1,16 @@
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase19Hilos\bin\Debug\net5.0\Clase19Hilos.exe
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase19Hilos\bin\Debug\net5.0\Clase19Hilos.deps.json
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase19Hilos\bin\Debug\net5.0\Clase19Hilos.runtimeconfig.json
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase19Hilos\bin\Debug\net5.0\Clase19Hilos.runtimeconfig.dev.json
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase19Hilos\bin\Debug\net5.0\Clase19Hilos.dll
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase19Hilos\bin\Debug\net5.0\Clase19Hilos.pdb
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase19Hilos\obj\Debug\net5.0\Clase19Hilos.csproj.AssemblyReference.cache
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase19Hilos\obj\Debug\net5.0\Clase19Hilos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase19Hilos\obj\Debug\net5.0\Clase19Hilos.AssemblyInfoInputs.cache
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase19Hilos\obj\Debug\net5.0\Clase19Hilos.AssemblyInfo.cs
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase19Hilos\obj\Debug\net5.0\Clase19Hilos.csproj.CoreCompileInputs.cache
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase19Hilos\obj\Debug\net5.0\Clase19Hilos.dll
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase19Hilos\obj\Debug\net5.0\refint\Clase19Hilos.dll
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase19Hilos\obj\Debug\net5.0\Clase19Hilos.pdb
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase19Hilos\obj\Debug\net5.0\Clase19Hilos.genruntimeconfig.cache
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase19Hilos\obj\Debug\net5.0\ref\Clase19Hilos.dll

@@ -15,7 +15,12 @@ namespace Entidades
 
         public string Comer()
         {
-            return "Estoy comiendo ";
+            return "Estoy comiendo";
+        }
+
+        public string Comer(string comida)
+        {
+            return "Estoy comiendo " + comida;
         }
 
         string ICarnivoro.Cazador()

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Drawing;
 using System.Runtime.CompilerServices;
+using System.Text;
 
 namespace Clase12EjerInterfaces
 {
@@ -9,9 +10,10 @@ namespace Clase12EjerInterfaces
         private ConsoleColor colorTinta;
         private float tinta;
 
-        public Boligrafo(ConsoleColor colorTinta, float tinta)
+
+        public Boligrafo(float tinta, ConsoleColor color)
         {
-            this.colorTinta = colorTinta;
+            this.colorTinta = color;
             this.tinta = tinta;
         }
 
@@ -27,18 +29,40 @@ namespace Clase12EjerInterfaces
             set { tinta = value; }
         }
 
-        public Boligrafo(int unidades, ConsoleColor color)
-        {
-            
-        }
 
-        public EscrituraWrapper Escribir(string texto) 
+
+        public EscrituraWrapper Escribir(string texto)
         {
-            foreach(char c in texto)
+            EscrituraWrapper escritura = new EscrituraWrapper(texto, Color);
+
+            foreach (char c in texto)
             {
                 this.tinta -= (float)0.3;
             }
 
+            return escritura;
+        }
+
+        public bool Recargar(int unidades)
+        {
+            bool ret = false;
+
+            if (unidades > 0)
+            {
+                this.tinta += unidades;
+                ret = true;
+            }
+
+            return ret;
+        }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder("");
+            sb.AppendLine("Esta escribiendo con un boligrafo");
+            sb.AppendLine(this.colorTinta.ToString());
+            sb.AppendLine($"El nivel de tinta es de {this.tinta}");
+            return sb.ToString();
         }
 
 

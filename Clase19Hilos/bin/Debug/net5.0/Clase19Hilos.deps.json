@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Clase19Hilos/1.0.0": {
+        "runtime": {
+          "Clase19Hilos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase19Hilos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\BibliotecaEjercicioIntergrador\bin\Debug\net5.0\BibliotecaEjercicioIntergrador.deps.json
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\BibliotecaEjercicioIntergrador\bin\Debug\net5.0\BibliotecaEjercicioIntergrador.dll
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\BibliotecaEjercicioIntergrador\bin\Debug\net5.0\BibliotecaEjercicioIntergrador.pdb
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\BibliotecaEjercicioIntergrador\obj\Debug\net5.0\BibliotecaEjercicioIntergrador.csproj.AssemblyReference.cache
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\BibliotecaEjercicioIntergrador\obj\Debug\net5.0\BibliotecaEjercicioIntergrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\BibliotecaEjercicioIntergrador\obj\Debug\net5.0\BibliotecaEjercicioIntergrador.AssemblyInfoInputs.cache
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\BibliotecaEjercicioIntergrador\obj\Debug\net5.0\BibliotecaEjercicioIntergrador.AssemblyInfo.cs
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\BibliotecaEjercicioIntergrador\obj\Debug\net5.0\BibliotecaEjercicioIntergrador.csproj.CoreCompileInputs.cache
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\BibliotecaEjercicioIntergrador\obj\Debug\net5.0\BibliotecaEjercicioIntergrador.dll
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\BibliotecaEjercicioIntergrador\obj\Debug\net5.0\refint\BibliotecaEjercicioIntergrador.dll
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\BibliotecaEjercicioIntergrador\obj\Debug\net5.0\BibliotecaEjercicioIntergrador.pdb
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\BibliotecaEjercicioIntergrador\obj\Debug\net5.0\ref\BibliotecaEjercicioIntergrador.dll

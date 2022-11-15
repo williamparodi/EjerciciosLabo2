@@ -8,13 +8,14 @@ namespace Clase12EjerInterfaces
 {
     public class EscrituraWrapper
     {
-        private ConsoleColor color;
-        private string texto;
 
-        public EscrituraWrapper(string texto,ConsoleColor color)
+        public ConsoleColor color;
+        public string texto;
+
+        public EscrituraWrapper(string texto, ConsoleColor color)
         {
-            this.color = color;
             this.texto = texto;
+            this.color = color;
         }
     }
 }

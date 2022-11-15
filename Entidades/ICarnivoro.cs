@@ -10,6 +10,8 @@ namespace Entidades
     {
         string Comer();
         string Comer(string comida);
+
+        string Cazador();
         
     }
 }

@@ -1,0 +1,12 @@
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase12EjerInterfaces\obj\Debug\net5.0\Clase12EjerInterfaces.csproj.AssemblyReference.cache
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase12EjerInterfaces\obj\Debug\net5.0\Clase12EjerInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase12EjerInterfaces\obj\Debug\net5.0\Clase12EjerInterfaces.AssemblyInfoInputs.cache
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase12EjerInterfaces\obj\Debug\net5.0\Clase12EjerInterfaces.AssemblyInfo.cs
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase12EjerInterfaces\obj\Debug\net5.0\Clase12EjerInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase12EjerInterfaces\bin\Debug\net5.0\Clase12EjerInterfaces.deps.json
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase12EjerInterfaces\bin\Debug\net5.0\Clase12EjerInterfaces.dll
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase12EjerInterfaces\bin\Debug\net5.0\Clase12EjerInterfaces.pdb
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase12EjerInterfaces\obj\Debug\net5.0\Clase12EjerInterfaces.dll
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase12EjerInterfaces\obj\Debug\net5.0\refint\Clase12EjerInterfaces.dll
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase12EjerInterfaces\obj\Debug\net5.0\Clase12EjerInterfaces.pdb
+C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\Clase12EjerInterfaces\obj\Debug\net5.0\ref\Clase12EjerInterfaces.dll
