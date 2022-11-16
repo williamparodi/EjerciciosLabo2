@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace BibliotecaEjercicioClase12
 {
-    public class EquipoFutbol
+    public class EquipoFutbol : Equipo
     {
+        public EquipoFutbol(string nombre,DateTime fechaDeCreacion) : base(nombre,fechaDeCreacion)
+        {
 
+        }
     }
 }

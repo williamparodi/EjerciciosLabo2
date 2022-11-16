@@ -129,7 +129,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase19Hilos", "Clase19Hilo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase18-Ejer101Hilos", "Clase18-Ejer101Hilos\Clase18-Ejer101Hilos.csproj", "{53BB5D60-B606-4A5D-B199-59BB647F5DBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase13-Ejercicio101Cartuchera", "Clase13-Ejercicio101Cartuchera\Clase13-Ejercicio101Cartuchera.csproj", "{D2E2FAD1-1B45-43FF-932E-A04323201662}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase13-Ejercicio101Cartuchera", "Clase13-Ejercicio101Cartuchera\Clase13-Ejercicio101Cartuchera.csproj", "{D2E2FAD1-1B45-43FF-932E-A04323201662}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase12EjercicioTorneo", "Clase12EjercicioTorneo\Clase12EjercicioTorneo.csproj", "{93DCB60B-0CF5-4CD9-9CBD-DFFE426BB6A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -361,6 +363,10 @@ Global
 		{D2E2FAD1-1B45-43FF-932E-A04323201662}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2E2FAD1-1B45-43FF-932E-A04323201662}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2E2FAD1-1B45-43FF-932E-A04323201662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93DCB60B-0CF5-4CD9-9CBD-DFFE426BB6A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93DCB60B-0CF5-4CD9-9CBD-DFFE426BB6A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93DCB60B-0CF5-4CD9-9CBD-DFFE426BB6A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93DCB60B-0CF5-4CD9-9CBD-DFFE426BB6A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

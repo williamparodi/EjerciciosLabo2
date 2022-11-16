@@ -11,6 +11,11 @@ namespace BibliotecaEjercicioClase12
         public string nombre;
         public DateTime fechaDeCreacion;
 
+        public Equipo(string nombre,DateTime fechaDeCreacion)
+        {
+            this.nombre = nombre;
+            this.fechaDeCreacion = fechaDeCreacion; 
+        }
         public static bool operator ==(Equipo e1, Equipo e2)
         {
             bool retotno = false;
@@ -30,8 +35,7 @@ namespace BibliotecaEjercicioClase12
         public string Ficha(Equipo equipo)
         {
             StringBuilder sb = new StringBuilder();
-            sb.Append($"[{this.nombre}] ");
-            sb.Append($" fundado el [{this.fechaDeCreacion}]");
+            sb.Append($"{this.nombre} fundado el {this.fechaDeCreacion}");
             return sb.ToString();
         }
 

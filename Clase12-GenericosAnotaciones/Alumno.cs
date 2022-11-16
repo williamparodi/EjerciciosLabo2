@@ -11,7 +11,8 @@ namespace Clase12_GenericosAnotaciones
         public int legajo;
         private string materiaFavorita;
 
-        public Alumno(int legajo, string materiaFavorita)        {
+        public Alumno(int legajo, string materiaFavorita)       
+        {
             this.legajo = legajo;
             this.materiaFavorita = materiaFavorita;
         }
