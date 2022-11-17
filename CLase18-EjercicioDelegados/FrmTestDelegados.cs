@@ -12,8 +12,8 @@ namespace CLase18_EjercicioDelegados
 {
     public partial class FrmTestDelegados : Form
     {
-        public delegate void DelegadoNombre (string str);
-        private DelegadoNombre actualizaNombre;
+        public delegate void DelegadoNombre (string str);//delcaro delegado 
+        private DelegadoNombre actualizaNombre;//atributo delegado
         public FrmTestDelegados(DelegadoNombre actualizaNombre)
         {
             InitializeComponent();

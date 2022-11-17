@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Clase14ArchivosEjer103Notepad/1.0.0": {
+        "runtime": {
+          "Clase14ArchivosEjer103Notepad.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase14ArchivosEjer103Notepad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

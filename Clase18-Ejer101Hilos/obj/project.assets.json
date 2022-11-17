@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Clase18-Ejer101Hilos\\Clase18-Ejer101Hilos.csproj",
-      "projectName": "Clase18-Ejer101Hilos",
-      "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Clase18-Ejer101Hilos\\Clase18-Ejer101Hilos.csproj",
+      "projectUniqueName": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Clase18-Ejer101Hilos\\Clase19-Ejer101Hilos.csproj",
+      "projectName": "Clase19-Ejer101Hilos",
+      "projectPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Clase18-Ejer101Hilos\\Clase19-Ejer101Hilos.csproj",
       "packagesPath": "C:\\Users\\Willy\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Willy\\source\\repos\\ClasesLabo2\\EjerciciosLabo2\\Clase18-Ejer101Hilos\\obj\\",
       "projectStyle": "PackageReference",

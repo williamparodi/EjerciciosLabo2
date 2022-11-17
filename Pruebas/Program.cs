@@ -36,6 +36,14 @@ namespace Pruebas
 
               
             }
+            // Parar saber sistema operativo y caracteristicas
+            Console.WriteLine("Cantidad de procesadores lógicos: {0}", Environment.ProcessorCount);
+            Console.WriteLine("¿Tiene arquitectura de 64 bits?: {0}", Environment.Is64BitOperatingSystem);
+            Console.WriteLine("Usuario: {0}", Environment.UserName);
+            Console.WriteLine("Primera línea {0} Segunda Línea", Environment.NewLine);
+            Console.WriteLine("OSVersion: {0}", Environment.OSVersion);
+            Console.WriteLine("OSVersion.Platform: {0}", Environment.OSVersion.Platform);
+            Console.WriteLine("OSVersion.Version: {0}", Environment.OSVersion.Version);
 
         }
 

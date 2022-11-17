@@ -45,7 +45,7 @@ namespace Clase18_Ejer101Hilos
             this.timer2.Enabled = true;
             this.timer2.Start();
             //Task tarea = Task.Run(AsignarHora);
-            Task tarea2 = Task.Run(AsignarHora3);
+            Task tarea2 = Task.Run(AsignarHora3);// intancio y inicio un hilo en una misma linea ademas retorna la instancia de la task
            
         }
 

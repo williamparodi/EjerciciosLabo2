@@ -1,5 +1,0 @@
-C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionesClase05\obj\Debug\net5.0\AnotacionesClase05.csproj.AssemblyReference.cache
-C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionesClase05\obj\Debug\net5.0\AnotacionesClase05.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionesClase05\obj\Debug\net5.0\AnotacionesClase05.AssemblyInfoInputs.cache
-C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionesClase05\obj\Debug\net5.0\AnotacionesClase05.AssemblyInfo.cs
-C:\Users\Willy\source\repos\ClasesLabo2\EjerciciosLabo2\AnotacionesClase05\obj\Debug\net5.0\AnotacionesClase05.csproj.CoreCompileInputs.cache
